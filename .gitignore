@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Large raw datasets (>100MB, exceeding standard GitHub limits)
+WELFake_Dataset.csv
+prepared_data/clean_fake_news.csv
+prepared_data/train.csv
+prepared_data/test.csv
+prepared_data/validation.csv
+
